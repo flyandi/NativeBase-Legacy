@@ -1,0 +1,2 @@
+Object.defineProperty(exports,"__esModule",{value:true});var _nativeBaseShoutemTheme=require("native-base-shoutem-theme");var _Drawer=require("./basic/Drawer");var _Drawer2=_interopRequireDefault(_Drawer);function _interopRequireDefault(obj){return obj&&obj.__esModule?obj:{default:obj};}var VueNativeBasePlugin={install:function install(Vue,options){Vue.component("nb-drawer",_Drawer2.default);}};exports.default=VueNativeBasePlugin;
+//# sourceMappingURL=vue-native.js.map
